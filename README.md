@@ -19,6 +19,9 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 ### 5. **Student Regression**
    - This file models and predicts student performance based on various factors, such as study hours, attendance, and socio-economic features. It applies regression techniques to predict academic outcomes.
 
+### Recent Additions
+   - Neural Network Regression and Classification with two different datasets: Student Performance and Medical Costs
+
 ## Requirements
 
 To run these projects, you will need the following Python libraries:
@@ -27,7 +30,8 @@ To run these projects, you will need the following Python libraries:
 - `scikit-learn`
 - `matplotlib`
 - `seaborn`
+- `tensorflow`
 
 Install the required libraries with:
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
